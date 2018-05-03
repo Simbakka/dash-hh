@@ -6,3 +6,5 @@ Flask - Web framework
 Dash - frontend, рисование графиков  
 SQLAlchemy - работа с базой данных  
 APScheduler - задание на ежедневный запрос hh.ru  
+
+Размещено по адресу http://simbakka.pythonanywhere.com
